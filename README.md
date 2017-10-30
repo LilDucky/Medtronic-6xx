@@ -41,5 +41,7 @@ Tests performed:
 
 remote bolus of 0.1U, 0.5U, 1.0U and 5.0U
 
+All of this was captured on channel 0x17
+
 
 
