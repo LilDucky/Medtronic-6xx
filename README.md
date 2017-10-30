@@ -43,5 +43,9 @@ remote bolus of 0.1U, 0.5U, 1.0U and 5.0U
 
 All of this was captured on channel 0x17
 
+Second batch of testing - two pumps powered up. Pump for first tests moved from channel 0x17 to 0x14 and new pump was on 0x17
+
+Also captured 2 instances of the CNL SPI bus during power up (once from charging and once from power button)
+
 
 
