@@ -49,3 +49,6 @@ Also captured 2 instances of the CNL SPI bus during power up (once from charging
 
 
 
+Excel worksheet uploaded to reformat hex dumps from the packet captures.
+
+paste hex dump into sheet1 and run the packetize macro. results are in sheet 2. not perfect but a good start
