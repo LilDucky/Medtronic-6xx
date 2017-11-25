@@ -1,0 +1,7 @@
+pump 	serial ending in 9H
+CNL24	serial ending in 3B
+
+start captures simultaneously
+confirm pressed on pump at rf frame 100
+
+
